@@ -10,6 +10,49 @@
 
 ---
 
+
+## Learn Basic Network :book:
+
+You also can learn basic network config in level 1 - 5
+
+<details>
+<summary>Level 1</summary>
+
+Every client need to be set as different ip address.
+
+<img src="https://github.com/Alicebaghunts/42-Net-Practice/blob/main/pngs/Level1.png" alt="solve-level-1">
+</details>
+
+<details>
+<summary>Level 2</summary>
+Border ip is cannot be used because it is reserved for network transmission.
+
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level2solve.png" alt="solve-level-2">
+</details>
+
+<details>
+<summary>Level 3</summary>
+Border ip is cannot be used because it is reserved for network transmission.
+
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level3solve.png" alt="solve-level-3">
+</details>
+
+<details>
+<summary>Level 4</summary>
+Border ip is cannot be used because it is reserved for network transmission.
+
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level4solve.png" alt="solve-level-4">
+</details>
+
+<details>
+<summary>Level 5</summary>
+Border ip is cannot be used because it is reserved for network transmission.
+
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level5solve.png" alt="solve-level-5">
+</details>
+
+
+---
 <h2 id="binary-number-system" align="center">Binary Number System</h2>
 
 This table shows the bits in the binary number system along with their binary values, exponential powers, and decimal equivalents.
