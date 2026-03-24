@@ -296,6 +296,23 @@ A wildcard mask is the inverse of a subnet mask and is often used in ACLs (Acces
 - For subnet mask 255.255.255.0, the wildcard mask is: 0.0.0.255
 
 ---
+### Example Calculations
+
+**Network:** 192.168.1.0/24  
+- Subnet Mask: 255.255.255.0  
+- CIDR Notation: /24  
+- Usable IP Range: 192.168.1.1 - 192.168.1.254  
+- Broadcast Address: 192.168.1.255  
+- Total Hosts: 254
+
+**Network:** 10.0.0.0/8  
+- Subnet Mask: 255.0.0.0  
+- CIDR Notation: /8  
+- Usable IP Range: 10.0.0.1 - 10.255.255.254  
+- Broadcast Address: 10.255.255.255  
+- Total Hosts: 16,777,214
+
+---
 
 
 ### Table of Contents 🔗
@@ -321,23 +338,6 @@ A wildcard mask is the inverse of a subnet mask and is often used in ACLs (Acces
    - [Wildcard Mask](#wildcard-mask)
 - [Example Calculations](#example-calculations)
 
-
-### Example Calculations
-
-**Network:** 192.168.1.0/24  
-- Subnet Mask: 255.255.255.0  
-- CIDR Notation: /24  
-- Usable IP Range: 192.168.1.1 - 192.168.1.254  
-- Broadcast Address: 192.168.1.255  
-- Total Hosts: 254
-
-**Network:** 10.0.0.0/8  
-- Subnet Mask: 255.0.0.0  
-- CIDR Notation: /8  
-- Usable IP Range: 10.0.0.1 - 10.255.255.254  
-- Broadcast Address: 10.255.255.255  
-- Total Hosts: 16,777,214
-
----
+****
 
 <p align="center">2025 This project was created by Derya ACAR.</p>
